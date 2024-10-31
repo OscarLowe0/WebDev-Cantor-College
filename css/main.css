@@ -6,3 +6,9 @@ div.container{
     margin:50px;
     padding:50px;
 }
+h1{
+    font-size: 2rem;
+    font-weight:100;
+    background-color:#cccccc;
+    text-align: center;
+}
