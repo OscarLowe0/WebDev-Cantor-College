@@ -16,4 +16,10 @@ h1{
     font-size: 12px;
     color: #000;
 }
+#footer {
+    color: #0066CC;
+    background-color: #CCCCCC;
+    font-size: 10px;
+    text-align: center;
+}
 
