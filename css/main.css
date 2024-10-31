@@ -9,7 +9,8 @@ body{
     height: 250px;
     width: 3000px;
     background-color: orange;
+    outline: color(srgb orange);
 
-    position: relative;
+    position: sticky;
     left: 1;
 }
