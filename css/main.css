@@ -16,8 +16,8 @@ body{
     width: 2000px;
     background-color: orange;
 
-    position: sticky;
-    top: 0px;
+    position: relative;
+    top:0;
 }
 #logo{
     border: 1px solid;
@@ -25,5 +25,5 @@ body{
     width: 150px;
     
     position: absolute;
-    top: 0px;
-}
+    top:0;
+}   
