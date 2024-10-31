@@ -4,8 +4,9 @@ body{
 #box1{
     border: 1px solid;
     height: 250px;
-    width: 250px;
+    width: 1000px;
     background-color: orange;
 
     position: fixed;
+    top: 0;
 }
