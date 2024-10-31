@@ -10,6 +10,15 @@ body{
     position: sticky;
     top: 0px;
 }
+#box2{
+    border: 1px solid;
+    height: 150px;
+    width: 2000px;
+    background-color: orange;
+
+    position: sticky;
+    top: 0px;
+}
 #logo{
     border: 1px solid;
     height: 100px;
