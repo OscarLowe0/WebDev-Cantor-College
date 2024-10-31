@@ -5,7 +5,7 @@ div {
     max-width: 576px;
     background-color: orange;
     padding: 16px;
-    border: 6px solid black;
+    border: 2px solid black;
 }
 #box1{
     border: 1px solid;
