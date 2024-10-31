@@ -8,6 +8,7 @@ body{
     background-color: orange;
 
     position: absolute;
+    top:0;
 }
 #logo{
     border: 1px solid;
