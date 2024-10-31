@@ -6,10 +6,9 @@ body{
 }
 #box1{
     border: 1px solid;
-    height: 250px;
-    width: 3000px;
+    height: 150px;
+    width: 1500px;
     background-color: orange;
-    outline: color(srgb orange orange orange);
 
     position: sticky;
     top: 0;
