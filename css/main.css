@@ -1,12 +1,15 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
 }
+#logo{
+    
+}
 #box1{
     border: 1px solid;
     height: 250px;
     width: 3000px;
     background-color: orange;
 
-    position: fixed;
+    position: relative;
     left: 0;
 }
