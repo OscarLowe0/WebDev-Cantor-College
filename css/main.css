@@ -16,7 +16,6 @@ body{
     width: 2000px;
     background-color: orange;
 
-    position: absolute;
-    top:0;
-    left:0;
+    position: sticky;
+    top: 0px;
 }
