@@ -10,21 +10,26 @@
     background-color:#ffffff;
 }
 
-nav li a:link{
-    text-decoration:none;
-    color:#000000;
-}
-nav li a:visited{
-    text-decoration:none;
-    color:#7006e9;
-}
-nav li a:hover{
-    text-decoration:none;
-    color:#0b18ce;
-}
-nav li a:active{
-    text-decoration:none;
-    color:#cc0000;
+nav li a {
+  &:link {
+    text-decoration: none;
+    color: #000000;
+  }
+
+  &:visited {
+    text-decoration: none;
+    color: #CCCCCC;
+  }
+
+  &:hover {
+    text-decoration: underline;
+    color: #66CC00;
+  }
+
+  &:active {
+    text-decoration: underline;
+    color: #CC6600;
+  }
 }
     </style>
 
