@@ -7,11 +7,3 @@ div {
     padding: 16px;
     border: 2px solid black;
 }
-#logo{
-    border: 1px solid;
-    height: 100px;
-    width: 150px;
-    
-    position: absolute;
-    top:0;
-}   
