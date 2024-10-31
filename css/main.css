@@ -3,6 +3,7 @@ body{
 }
 div {
     max-width: 2000px;
+    max-height: 150px;
     background-color: orange;
     padding: 16px;
     border: 2px solid orange;
