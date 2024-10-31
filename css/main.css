@@ -2,8 +2,8 @@ body{
     font-family: Arial, Helvetica, sans-serif;
 }
 div {
-    max-width: 1000px;
+    max-width: 1600px;
     background-color: orange;
     padding: 16px;
-    border: 2px solid black;
+    border: 2px solid orange;
 }
