@@ -3,6 +3,9 @@ body{
 }
 .image-logo{
     text-align: center;
+    margin: 0;
+    padding: 0;
+    border: 0;
 }
 .container {
     width: 100%;
