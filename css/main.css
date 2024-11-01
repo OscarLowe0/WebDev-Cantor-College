@@ -30,3 +30,14 @@ h1{
   nav ul li{	
     display:inline;
 }
+header{
+    background-color: #263248;	
+    border-radius: 8px;
+}
+nav li a{
+    text-decoration: none;	
+    color: #fff;	
+}
+nav li a:hover{
+    color: #7E8AA2;	
+}
