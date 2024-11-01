@@ -59,7 +59,7 @@ header h1 a:hover{
 }
 header{
     background-color: orange;
-    border-radius: 16px;
+    border-radius: 8px;
     display:flex;
     justify-content:space-between;
 }
