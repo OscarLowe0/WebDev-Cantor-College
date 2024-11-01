@@ -30,7 +30,3 @@ h1{
   nav ul li{	
     display:inline;
 }
-nav ul{
-    padding-left:0;
-    list-style:none;	
-}
