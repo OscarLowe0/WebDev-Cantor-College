@@ -63,3 +63,12 @@ header{
     display:flex;
     justify-content:space-between;
 }
+section{
+    padding:0 10px 10px 0;
+}
+.sidebar{
+    padding:20px 40px;	
+    border:1px solid #ccc;
+    border-radius:8px;
+    margin-top: 70px;
+ }
