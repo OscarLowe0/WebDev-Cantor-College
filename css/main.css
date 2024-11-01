@@ -29,6 +29,12 @@ h1{
   }
   nav ul li{	
     display:inline;
+    padding-left:10px;
+    padding-right:10px;
+    border-left:1px solid #7E8AA2;
+}
+nav li:first-child{
+    border-left:none;	
 }
 header{
     background-color: #263248;	
