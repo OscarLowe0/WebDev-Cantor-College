@@ -62,3 +62,9 @@ header{
     border-radius:8px;
     display:flex;
 }
+header{
+    background-color: #263248;	
+    border-radius: 8px;
+    display:flex;
+    justify-content:space-between;
+}
