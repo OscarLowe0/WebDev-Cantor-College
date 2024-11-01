@@ -28,7 +28,7 @@ h1{
     display:inline;
     padding-left:22px;
     padding-right:22px;
-    border-left:1px solid #7E8AA2;
+    border-left:1px solid orange;
 }
 nav li:first-child{
     border-left:none;	
@@ -42,7 +42,7 @@ nav li a{
     color: #fff;	
 }
 nav li a:hover{
-    color: #7E8AA2;	
+    color: #114fca;	
 }
 header h1 a{
     color:#fff;
