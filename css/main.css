@@ -22,6 +22,8 @@ body{
     color: white;
     text-align: center;
     font-size: large;
+    margin: 0;
+    padding: 0;
 }
 #logo-banner{
     height: 200px;
