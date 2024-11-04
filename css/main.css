@@ -1,13 +1,19 @@
 
 body{
     background-color: aqua;
+    margin: 0;
+    padding: 0;
 }
 .image-logo{
     text-align: center;
+    margin: 0;
+    padding: 0;
 }
 .container {
     width: 100%;
     margin: auto;
+    margin: 0;
+    padding: 0;
 }
 #box1forindex{
     width: 100%;
