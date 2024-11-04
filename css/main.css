@@ -17,6 +17,11 @@ body{
     text-align: center;
     font-size: large;
 }
+#logo-banner{
+    height: 100px;
+    width: 100%;
+    background-color: white;
+}
 h1{
     font-size: 2rem;
     font-weight:100;
