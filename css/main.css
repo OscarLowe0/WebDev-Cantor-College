@@ -13,9 +13,10 @@ body{
     width: 100%;
     height: 200px;
     background-color: rgb(33, 43, 133);
-    margin: 0%;
+    margin: 0%; 
     border: 0%;
     padding: 0%;
+    color: white;
 }
 h1{
     font-size: 2rem;
