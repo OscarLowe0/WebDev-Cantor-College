@@ -1,6 +1,9 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
 }
+body{
+    background-color: aqua;
+}
 .image-logo{
     text-align: center;
     position: sticky;
@@ -9,7 +12,6 @@ body{
 .container {
     width: 100%;
     margin: auto;
-    position: fixed;
 }
 h1{
     font-size: 2rem;
