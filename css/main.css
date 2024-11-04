@@ -9,6 +9,11 @@ body{
     width: 100%;
     margin: auto;
 }
+#box1forindex{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
 h1{
     font-size: 2rem;
     font-weight:100;
