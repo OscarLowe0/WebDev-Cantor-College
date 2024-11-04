@@ -1,13 +1,9 @@
-body{
-    font-family: Arial, Helvetica, sans-serif;
-}
+
 body{
     background-color: aqua;
 }
 .image-logo{
     text-align: center;
-    position: sticky;
-    top: 0px;
 }
 .container {
     width: 100%;
