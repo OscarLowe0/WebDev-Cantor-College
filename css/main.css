@@ -3,6 +3,8 @@ body{
 }
 .image-logo{
     text-align: center;
+    position: sticky;
+    top: 0px;
 }
 .container {
     width: 100%;
