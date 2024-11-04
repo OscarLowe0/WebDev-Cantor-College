@@ -3,12 +3,10 @@ body{
 }
 .image-logo{
     text-align: center;
-    position: fixed;
 }
 .container {
     width: 100%;
     margin: auto;
-    position: fixed;
 }
 h1{
     font-size: 2rem;
