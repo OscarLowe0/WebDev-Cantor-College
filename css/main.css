@@ -12,7 +12,7 @@ body{
 #box1forindex{
     width: 200px;
     height: 200px;
-    background-color: blue;
+    background-color: rgb(33, 43, 133);
 }
 h1{
     font-size: 2rem;
