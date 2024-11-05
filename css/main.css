@@ -23,7 +23,7 @@ body{
     text-align: center;
     font-size: 100px;
     line-height: 100px;
-    margin: 0;
+    margin-bottom: -20px;
     padding: 0;
 }
 #logo-banner{
