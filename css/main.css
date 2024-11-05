@@ -45,6 +45,7 @@ h1{
     background-color: #CCCCCC;
     font-size: 35px;
     display: flex;
+    align-items: center;
     justify-content: center;
 }
   nav ul li{	
