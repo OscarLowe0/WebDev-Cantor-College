@@ -40,10 +40,10 @@ h1{
     text-align: center;
 }
 #footer {
-    color: #0066CC;
+    color: orange;
     height: 200px;
     background-color: #CCCCCC;
-    font-size: 10px;
+    font-size: 35px;
     text-align: center;
 }
   nav ul li{	
