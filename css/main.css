@@ -47,8 +47,8 @@ h1{
 }
   nav ul li{	
     display:inline;
-    padding-left:50px;
-    padding-right:50px;
+    padding-left:45px;
+    padding-right:45px;
     border-left:1px solid orange;
 }
 nav li:first-child{
