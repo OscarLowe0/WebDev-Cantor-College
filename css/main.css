@@ -21,10 +21,9 @@ body{
     background-color: rgb(33, 43, 133);
     color: white;
     text-align: center;
-    font-size: large;
+    font-size: 100px;
     margin: 0;
     padding: 0;
-    top: 0;
 }
 #logo-banner{
     height: 200px;
