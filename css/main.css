@@ -46,7 +46,7 @@ h1{
     text-align: center;
 }
   nav ul li{	
-    display:inline;
+    display: flex;
     padding-left:20px;
     padding-right:20px;
     border-left:1px solid orange;
