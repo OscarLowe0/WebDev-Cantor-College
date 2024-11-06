@@ -54,6 +54,13 @@ h1{
     padding-right:45px;
     border-left:1px solid orange;
 }
+a {
+    color: orange;
+}
+a:hover{
+    color: orange;
+}
+
 nav li:first-child{
     border-left:none;	
 }
