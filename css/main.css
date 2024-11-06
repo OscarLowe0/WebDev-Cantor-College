@@ -66,21 +66,21 @@ nav li a{
     color: gray;
 }
 nav li a:hover{
-    color: #114fca;	
+    color: orange;
 }
 nav li a:visited{
     color: gray;
 }
 nav li a:active{
-    text-decoration: underline;
-    color: purple;
+    text-decoration: none;
+    color: orange;
 }
 header h1 a{
     color:#fff;
     text-decoration: none;
 }
 header h1 a:hover{
-    text-decoration: underline;
+    text-decoration: none;
 }
 #logo{
     padding:10px;
