@@ -54,13 +54,9 @@ h1{
     padding-right:45px;
     border-left:1px solid orange;
 }
-a {
-    color: orange;
+ul {
+    list-style-type: none;
 }
-a:hover{
-    color: orange;
-}
-
 nav li:first-child{
     border-left:none;	
 }
